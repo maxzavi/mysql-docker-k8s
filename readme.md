@@ -20,4 +20,6 @@ docker run  -p 80:80 -e PMA_HOST=172.17.0.2 -d phpmyadmin/phpmyadmin
 ```
 
 
+reference in Azure devops https://mzavaletav.visualstudio.com/tallerk8s/_git/SpringBootMSMySql01
+
 
