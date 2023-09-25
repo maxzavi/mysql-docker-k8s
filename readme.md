@@ -3,7 +3,7 @@
 Create mysql instance in docker:
 
 ```cmd
-docker run -e MYSQL_ROOT_PASSWORD=admin -p 3306:3306 -d mysql:5.8 
+docker run -e MYSQL_ROOT_PASSWORD=admin -p 3306:3306 -d mysql
 ```
 
 Get Container ID, usign docker ps, and IP using **docker inspect** and container Id:
